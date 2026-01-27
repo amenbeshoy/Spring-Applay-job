@@ -1,0 +1,4 @@
+package com.DemoApp.jobportal.Config;
+
+public class SecurityConfig {
+}
